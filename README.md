@@ -2,7 +2,7 @@
 <p align="center">Eu sou <strong>Lucas Garcia</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LucasGarc&theme=radical&mode=weekly" />
+
 <img width=42% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGarc&hide_progress=true&theme=radical&mode=weekly" />
  </div>
  &nbsp;
