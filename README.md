@@ -1,5 +1,5 @@
 
-<p align="center">Eu sou <strong>Lucas Garcia 👋</strong></p>&nbsp;
+<p align="center">Eu sou <strong>Lucas Garcia</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LucasGarc&theme=radical&mode=weekly" />
@@ -41,7 +41,6 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
