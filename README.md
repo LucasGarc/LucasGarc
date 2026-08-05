@@ -3,8 +3,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 
-<img width=42% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGarc&hide_progress=true&theme=radical&mode=weekly" />
- </div>
+
  &nbsp;
  &nbsp;
 
